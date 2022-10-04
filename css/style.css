@@ -95,7 +95,7 @@ a.slide_btn {
     position: relative;
 }
 .form .main-bg-form .bg-form-login .input-1{
-    background: url(../images/bg-input.png);
+    background: url(../images/bg-input-active.png);
     width: 95%;
     margin: auto;
     height: 49px;
