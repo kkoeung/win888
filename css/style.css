@@ -116,7 +116,17 @@ a.slide_btn {
     top: 55%;
     left: 2%;
 }
-
+.form .main-bg-form .bg-form-login .input-3{
+    background: url(../images/bg-input-active.png);
+    width: 95%;
+    margin: auto;
+    height: 49px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 73%;
+    left: 2%;
+}
 .form .main-bg-form .bg-form-login .btn-login{
     width: 95%;
     margin: auto;
@@ -125,7 +135,8 @@ a.slide_btn {
     left: 2%;
 }
 .form .main-bg-form .bg-form-login .input-1 input,
-.form .main-bg-form .bg-form-login .input-2 input{
+.form .main-bg-form .bg-form-login .input-2 input,
+.form .main-bg-form .bg-form-login .input-3 input{
     position: absolute;
     padding: 11px;
     width: 375px;
@@ -163,17 +174,6 @@ a.slide_btn {
     top: 45%;
     left: 2%;
 }
-.form .main-bg-form .bg-form-register .input-3{
-    background: url(../images/bg-input-active.png);
-    width: 95%;
-    margin: auto;
-    height: 49px;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    position: absolute;
-    top: 60%;
-    left: 2%;
-}
 .form .main-bg-form .bg-form-register .btn-login{
     width: 95%;
     margin: auto;
@@ -182,8 +182,7 @@ a.slide_btn {
     left: 2%;
 }
 .form .main-bg-form .bg-form-register .input-1 input,
-.form .main-bg-form .bg-form-register .input-2 input,
-.form .main-bg-form .bg-form-register .input-3 input{
+.form .main-bg-form .bg-form-register .input-2 input{
     position: absolute;
     padding: 11px;
     width: 375px;
